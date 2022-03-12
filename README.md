@@ -1,2 +1,0 @@
-# pata-nahi
-Pata nahi
